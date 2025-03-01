@@ -1,7 +1,7 @@
 {
-  "name": "eris",
+  "name": "elice",
   "version": "0.18.0",
-  "description": "A NodeJS Discord library",
+  "description": "A Fork of eris that changes the platform to mobile",
   "main": "./index.js",
   "exports": {
     ".": [
